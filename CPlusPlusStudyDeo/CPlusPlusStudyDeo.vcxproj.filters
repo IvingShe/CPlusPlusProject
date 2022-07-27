@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CPlusPlusStudyDeo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TestClass.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="namespace_demo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="struct_demo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="new_delete_demo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="星号作用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="引用的作用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="引用作参数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="包含默认参数值的函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="重载函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类示例.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="访问修饰符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类的构造函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="初始化及赋值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="初始化列表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="数组及结构体初始化列表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="常函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="static的使用.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="析构函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="malloc_new_free_delete.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="this指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="继承.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="继承构造和析构函数的调用顺序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="覆盖.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="虚函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="虚析构.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="纯虚函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="虚继承.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="异常处理.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="static_cast_test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dynamic_cast_test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="const_cast_test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="继承构造和析构函数的调用顺序.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="覆盖.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="虚函数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyTestNameSpace.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="static_cast_test.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="dynamic_cast_test.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="const_cast_test.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CPlusPlusStudyDeo.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
