@@ -153,6 +153,7 @@
   <ItemGroup>
     <ClCompile Include="const_cast_test.cpp" />
     <ClCompile Include="CPlusPlusStudyDeo.cpp" />
+    <ClCompile Include="CPlusPlus字符串.cpp" />
     <ClCompile Include="dynamic_cast_test.cpp" />
     <ClCompile Include="malloc_new_free_delete.cpp" />
     <ClCompile Include="namespace_demo.cpp" />
@@ -186,6 +187,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="const_cast_test.h" />
+    <ClInclude Include="CPlusPlus字符串.h" />
     <ClInclude Include="dynamic_cast_test.h" />
     <ClInclude Include="MyTestNameSpace.h" />
     <ClInclude Include="resource.h" />
